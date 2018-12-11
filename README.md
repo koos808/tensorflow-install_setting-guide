@@ -11,4 +11,4 @@
         or ` conda remove -n "환경이름" --all `
         * 가상환경으로 들어가기 ` activate tensorflow `
         * 가상환경 확인하기 `conda info "환경이름" `
-        * Jupyter Notebook 멀티 커널 사용 ` pip install nb_conda `
+        * Jupyter Notebook 멀티 커널 사용 ` pip install nb_conda ` -> pip로 안깔리면 conda로 설치
