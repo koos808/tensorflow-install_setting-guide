@@ -6,3 +6,4 @@
         * pip 업데이트 ` python -m pip install --upgrade pip `
         * 아나콘다 가상실행환경 만들기 ` conda create -n '환경이름' python=3.7 `
         * 가상환경으로 들어가기 ` activate tensorflow `
+        * Jupyter Notebook 멀티 커널 사용 ` pip install nb_conda `
